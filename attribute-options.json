@@ -6,10 +6,10 @@
       "image": "https://picsum.photos/seed/flakon1/800/600",
       "attributes": {
         "pa_volume": [
-          "3ml",
-          "5ml",
-          "10ml",
-          "15ml",
+          "3-ml",
+          "5-ml",
+          "10-ml",
+          "15-ml",
           "10-ml"
         ]
       }
