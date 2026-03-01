@@ -1,0 +1,99 @@
+{
+  "options": [
+    {
+      "title": "Флакон",
+      "price": "0.00",
+      "image": "/wp-content/uploads/2026/01/flakon1.jpg",
+      "attributes": {
+        "pa_volume": [
+          "3ml",
+          "5ml",
+          "10ml",
+          "15ml",
+          "10-ml"
+        ]
+      }
+    },
+    {
+      "title": "Атомайзер 2",
+      "price": "100.00",
+      "image": "/wp-content/uploads/2026/01/flakon2.png",
+      "attributes": {
+        "pa_volume": [
+          "3-ml",
+          "5-ml",
+          "10-ml",
+          "15-ml",
+          "10-ml"
+        ]
+      }
+    },
+    {
+      "title": "Атомайзер 3",
+      "price": "100.00",
+      "image": "/wp-content/uploads/2026/01/flakon3.png",
+      "attributes": {
+        "pa_volume": [
+          "3-ml",
+          "5-ml",
+          "10-ml",
+          "15-ml",
+          "10-ml"
+        ]
+      }
+    },
+    {
+      "title": "Атомайзер 4",
+      "price": "100.00",
+      "image": "/wp-content/uploads/2026/01/flakon4.png",
+      "attributes": {
+        "pa_volume": [
+          "3-ml",
+          "5-ml",
+          "10-ml",
+          "15-ml",
+          "10-ml"
+        ]
+      }
+    },
+    {
+      "title": "Атомайзер 5",
+      "price": "100.00",
+      "image": "/wp-content/uploads/2026/01/flakon5.png",
+      "attributes": {
+        "pa_volume": [
+          "3-ml",
+          "5-ml",
+          "10-ml",
+          "15-ml",
+          "10-ml"
+        ]
+      }
+    },
+    {
+      "title": "Атомайзер 6",
+      "price": "100.00",
+      "image": "/wp-content/uploads/2026/01/flakon6.png",
+      "attributes": {
+        "pa_volume": [
+          "3-ml",
+          "5-ml",
+          "10-ml",
+          "15-ml",
+          "10-ml"
+        ]
+      }
+    },
+    {
+      "title": "Атомайзер 10",
+      "price": "125.00",
+      "image": "/wp-content/uploads/2026/01/flakon10.jpg",
+      "attributes": {
+        "pa_volume": [
+          "3-ml",
+          "5-ml"
+        ]
+      }
+    }
+  ]
+}
