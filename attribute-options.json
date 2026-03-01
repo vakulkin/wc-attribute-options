@@ -3,7 +3,7 @@
     {
       "title": "Флакон",
       "price": "0.00",
-      "image": "/wp-content/uploads/2026/01/flakon1.jpg",
+      "image": "https://picsum.photos/seed/flakon1/800/600",
       "attributes": {
         "pa_volume": [
           "3ml",
@@ -17,7 +17,7 @@
     {
       "title": "Атомайзер 2",
       "price": "100.00",
-      "image": "/wp-content/uploads/2026/01/flakon2.png",
+      "image": "https://picsum.photos/seed/flakon2/800/600",
       "attributes": {
         "pa_volume": [
           "3-ml",
@@ -31,7 +31,7 @@
     {
       "title": "Атомайзер 3",
       "price": "100.00",
-      "image": "/wp-content/uploads/2026/01/flakon3.png",
+      "image": "https://picsum.photos/seed/flakon3/800/600",
       "attributes": {
         "pa_volume": [
           "3-ml",
@@ -45,7 +45,7 @@
     {
       "title": "Атомайзер 4",
       "price": "100.00",
-      "image": "/wp-content/uploads/2026/01/flakon4.png",
+      "image": "https://picsum.photos/seed/flakon4/800/600",
       "attributes": {
         "pa_volume": [
           "3-ml",
@@ -59,7 +59,7 @@
     {
       "title": "Атомайзер 5",
       "price": "100.00",
-      "image": "/wp-content/uploads/2026/01/flakon5.png",
+      "image": "https://picsum.photos/seed/flakon5/800/600",
       "attributes": {
         "pa_volume": [
           "3-ml",
@@ -73,7 +73,7 @@
     {
       "title": "Атомайзер 6",
       "price": "100.00",
-      "image": "/wp-content/uploads/2026/01/flakon6.png",
+      "image": "https://picsum.photos/seed/flakon6/800/600",
       "attributes": {
         "pa_volume": [
           "3-ml",
@@ -87,7 +87,7 @@
     {
       "title": "Атомайзер 10",
       "price": "125.00",
-      "image": "/wp-content/uploads/2026/01/flakon10.jpg",
+      "image": "https://picsum.photos/seed/flakon10/800/600",
       "attributes": {
         "pa_volume": [
           "3-ml",
